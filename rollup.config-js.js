@@ -8,8 +8,6 @@ import json from "@rollup/plugin-json";
 import resolve, { nodeResolve } from "@rollup/plugin-node-resolve";
 import replace from "@rollup/plugin-replace";
 
-const packageJson = require("./package.json");
-
 export default {
   input: "src/js.tsx",
   output: [

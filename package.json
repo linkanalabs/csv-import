@@ -67,7 +67,6 @@
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "@types/use-sync-external-store": "0.0.3",
-    "@types/xlsx": "^0.0.36",
     "@typescript-eslint/eslint-plugin": "^5.56.0",
     "@typescript-eslint/parser": "^5.56.0",
     "core-js": "^3.22.7",
@@ -77,7 +76,6 @@
     "eslint-plugin-react": "^7.32.2",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^26.6.3",
-    "node-sass": "^9.0.0",
     "prettier": "^2.8.6",
     "prop-types": "^15.8.1",
     "react": "18.2.0",
@@ -111,8 +109,9 @@
     "react-dropzone": "^14.2.3",
     "react-i18next": "^14.1.0",
     "react-icons": "^4.12.0",
-    "xlsx": "^0.18.5",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz",
     "zustand": "^4.4.7"
   },
+  "packageManager": "yarn@3.6.4",
   "type": "module"
 }
