@@ -1,0 +1,25 @@
+FORK.md
+  s_a5dc4366ae6b93::t_7351a636f2ff85 1-58
+package-js.json
+  s_a5dc4366ae6b93::t_6ffa02bb32d8cd 86
+package.json
+  s_a5dc4366ae6b93::t_eac38b2d441730 112,115
+yarn.lock
+  s_a5dc4366ae6b93::t_1259f9e012234c 6340,7780,8453,8481,8502,9004,10234,10526,10540,10936,11409,12765,12959,13398,13416,13439,13466,13507,13568,15571,16305,17203,18433,18570-18572,18574-18575,18635
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "044b344024ed21d0e79c1eba756979efddacca87",
+  "prompts": {},
+  "sessions": {
+    "s_a5dc4366ae6b93": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01113d5e-b8b3-40f7-9bbd-3ea608b124ce",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Cirdes <cirdes@linkana.com>"
+    }
+  }
+}
